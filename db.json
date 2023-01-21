@@ -1,0 +1,8 @@
+{
+  "project": "Micro Posts Data",
+  "posts": [
+   {"id": 1, "title": "Living as a front-end dev", "body": "Being a front-end dev is interesting!"},
+   {"id": 2, "title": "My Dog is barking", "body": "Recently my dog has been barking into pure air"},
+   {"id": 3, "title": "Vegas", "body": "Living a beautiful life in vegas with my wife"}
+   ]
+}
